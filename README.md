@@ -1,7 +1,7 @@
 # qqmusic-sign
 QQ音乐API sign算法简易封装
 
-##安装
+## 安装
 
 npm安装
 ``` shell
@@ -13,7 +13,7 @@ yarn安装
 yarn add qqmusic-sign
 ```
 
-##使用方法
+## 使用方法
 ```javascript
 const getSign = require("qqmusic-sign");
 
