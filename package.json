@@ -1,0 +1,9 @@
+{
+  "name": "qqmusic-sign",
+  "version": "1.0.0",
+  "description": "QQ音乐API的sign算法",
+  "main": "index.js",
+  "repository": "https://github.com/Cloud370/qqmusic-sign.git",
+  "author": "Cloud370 <46866207+Cloud370@users.noreply.github.com>",
+  "license": "MIT"
+}
