@@ -5,7 +5,7 @@ QQ音乐API sign算法简易封装
 
 npm安装
 ``` shell
-npm install qqmusic-sign
+npm i qqmusic-sign
 ```
 
 yarn安装
