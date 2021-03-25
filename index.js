@@ -410,7 +410,7 @@
         t
 });
 
-/**
+/** 
  * 获取QQ音乐API的sign
  * @param {Object} data 
  * @returns {string} sign
